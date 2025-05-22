@@ -70,7 +70,7 @@
 
                     <div class="form-group">
                         <label for="tos">ToS & EULA:
-                            <input type="checkbox" id="tos" name="tos" required/>agree
+                            <input type="checkbox" id="tos" name="tos" required/>I agree
                         </label>
                     </div>
 
